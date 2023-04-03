@@ -24,5 +24,5 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - code execution and runtime, gec fec
 - assync programming
 - callback and callback hell
-
+- Pomises in js
 
