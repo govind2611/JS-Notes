@@ -25,4 +25,6 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - assync programming
 - callback and callback hell
 - Pomises in js
-
+- Async await
+- Scope chaining
+- oops
