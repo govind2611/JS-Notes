@@ -29,3 +29,4 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - Scope chaining
 - oops
 - types of creating objects and about class
+- Inheritance
