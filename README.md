@@ -30,3 +30,6 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - oops
 - types of creating objects and about class
 - Inheritance
+- callback and callback hell
+- promises
+- promise chaining
