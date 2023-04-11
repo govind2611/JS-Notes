@@ -33,4 +33,5 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - callback and callback hell
 - promises
 - promise chaining
+- Async Await
 - fetching data from api
