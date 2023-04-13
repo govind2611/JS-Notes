@@ -36,3 +36,7 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - Getters & Setters
 - Async Await
 - fetching data from api
+- Getters & Setters
+- Prototype
+- prototypal inheritance
+- DOM-I
