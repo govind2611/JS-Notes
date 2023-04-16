@@ -41,3 +41,5 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - prototypal inheritance
 - DOM-I
 - DOM-II {Event Listener}
+- DOM -III
+- DOM Mapp Array
