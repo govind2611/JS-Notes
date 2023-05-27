@@ -45,3 +45,4 @@ JavaScript is the programming language of the Web.JavaScript is easy to learn.
 - DOM -III
 - DOM Mapp Array
 - Web API
+- Local Storage
